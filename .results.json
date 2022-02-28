@@ -5,15 +5,15 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2022-02-28T06:17:55.165Z",
-    "end": "2022-02-28T06:17:55.174Z",
-    "duration": 9
+    "start": "2022-02-28T06:57:10.246Z",
+    "end": "2022-02-28T06:57:10.254Z",
+    "duration": 8
   },
   "tests": [
     {
       "title": "has a folder named my-repository",
       "fullTitle": "this lab has a folder named my-repository",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -41,7 +41,7 @@
     {
       "title": "has at least one commit",
       "fullTitle": "the local repository has at least one commit",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -59,7 +59,7 @@
     {
       "title": "has a folder named my-repository",
       "fullTitle": "this lab has a folder named my-repository",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,7 +87,7 @@
     {
       "title": "has at least one commit",
       "fullTitle": "the local repository has at least one commit",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
